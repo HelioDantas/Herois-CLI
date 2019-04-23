@@ -1,8 +1,8 @@
-##Programa  ClI de CRUD de Herois baseado no treinamento node(Underline)
+## Programa  ClI de CRUD de Herois baseado no treinamento node(Underline)
 
 
 
-####Options:
+#### Options:
 
  - -V, --version        output the version number
  - -i, --id [value]     Id do Heroi
@@ -14,24 +14,24 @@
  - -u, --update         Deletar um Heroi
  - -h, --help           output usage information
 
-####Instaler as dependecias
+#### Instaler as dependecias
 
 `npm install`
 
-####Create
+#### Create
 
 `node index.js -c -n flash -p Speed`
 
-####Delete
+#### Delete
 
 `node index.js -c -n flash -p Speed`
 
-####List
+#### List
 
 `node index.js -l -n flash`
 use o nome que deseja buscar
 
-####Update
+#### Update
 
 `node index.js -u -n Batman -p Many -i 2`
 
