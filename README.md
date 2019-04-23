@@ -24,7 +24,7 @@
 
 #### Delete
 
-`node index.js -c -n flash -p Speed`
+`node index.js -d -i 1`
 
 #### List
 
